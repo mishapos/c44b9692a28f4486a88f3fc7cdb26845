@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = dotnet_basic
+build_property.ProjectDir = c:\wagit\AAPT-Antares-StaticWebsites\src\Runner\TestAppCode\dotnet-api\api\
